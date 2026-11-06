@@ -49,20 +49,6 @@ Os botões Todos, Web, Python e Modelagem permitem selecionar a categoria exibid
 - **Animação nos cards:** `transform` e `transition` criam uma elevação ao passar o mouse. A regra `prefers-reduced-motion` desativa movimentos para visitantes que solicitaram essa preferência.
 - **Nova seção Formação:** apresenta os cursos e seus respectivos estados.
 
-O arquivo-base da aula não acompanha este projeto. Antes da entrega, compare os recursos com o que foi feito em aula e confirme qual deles representa a evolução exigida.
-
-## Publicação no GitHub Pages
-
-1. Crie um repositório público chamado `portfolio-millena` na sua conta do GitHub.
-2. Envie `index.html`, `estilo.css`, `script.js` e `README.md` para a raiz da branch `main`. Não envie a pasta de configuração de prévia `.openai`.
-3. Abra **Settings → Pages**.
-4. Em **Build and deployment**, selecione **Deploy from a branch**.
-5. Selecione a branch **main**, a pasta **/(root)** e clique em **Save**.
-6. Aguarde a publicação, abra o endereço exibido pelo próprio GitHub e teste o site.
-7. Confirme os links desta documentação.
-8. Entregue os dois links: repositório e site publicado.
-
-Se escolher outro nome de repositório, ajuste também o caminho do site no README.
 
 ## Verificação
 
@@ -72,5 +58,3 @@ Foram verificados no navegador: abertura da página, carregamento do Bootstrap, 
 
 - Bootstrap: https://getbootstrap.com/docs/5.3/getting-started/introduction/
 - GitHub Pages: https://docs.github.com/en/pages/quickstart
-
-Projeto acadêmico desenvolvido com apoio de IA na estruturação, revisão do código e documentação.
